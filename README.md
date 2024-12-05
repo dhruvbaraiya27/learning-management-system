@@ -4,10 +4,6 @@
 
 This Learning Management System is a full-stack web application designed to facilitate online education, providing a seamless platform for instructors to create and manage courses while enabling students to discover, purchase, and learn from various educational content.
 
-## 📸 Project Screenshots
-
-(You would typically add some screenshots of your application here)
-
 ## ✨ Features
 
 ### For Instructors
