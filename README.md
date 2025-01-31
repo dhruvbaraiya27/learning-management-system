@@ -1,10 +1,10 @@
 # Learning Management System (LMS)
 
-## 🌟 Project Overview
+## Project Overview
 
 This Learning Management System is a full-stack web application designed to facilitate online education, providing a seamless platform for instructors to create and manage courses while enabling students to discover, purchase, and learn from various educational content.
 
-## ✨ Features
+## Features
 
 ### For Instructors
 - Course Creation and Management
@@ -132,17 +132,15 @@ The application uses JWT (JSON Web Tokens) for secure authentication. Users can:
 
 Integrated PayPal payment gateway for secure course purchases.
 
-## 🌈 Future Roadmap
+##  Future Roadmap
 - Live Class Integration
 - Advanced Analytics
 - Certification System
 
 
-Project Link: [https://github.com/dhruvbaraiya27/info6150_final-project](https://github.com/dhruvbaraiya27/info6150_final-project)
+Project Link: [https://github.com/dhruvbaraiya27/info6150_final-project](https://github.com/dhruvbaraiya27/learning-management-system)
 
-## 📜 License
 
-Distributed under the MIT License. See LICENSE for more information.
 
 ## 🙏 Acknowledgements
 - React.js
