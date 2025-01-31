@@ -20,7 +20,7 @@ This Learning Management System is a full-stack web application designed to faci
 - Video Completion Tracking
 - Seamless Learning Experience
 
-## 🚀 Technologies Used
+## Technologies Used
 
 ### Frontend
 - React.js
@@ -41,7 +41,7 @@ This Learning Management System is a full-stack web application designed to faci
 - Cloudinary
 - JSON Web Token (JWT) for Authentication
 
-## 🔧 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -50,7 +50,7 @@ Before you begin, ensure you have met the following requirements:
 - MongoDB
 - PayPal Developer Account
 
-## 🛠️ Installation
+##  Installation
 
 ### Clone the Repository
 bash
@@ -69,7 +69,7 @@ cd frontend
 npm install
 
 
-## 📝 Environment Variables
+##  Environment Variables
 
 Create .env files in both backend and frontend directories with the following variables:
 
@@ -89,7 +89,7 @@ REACT_APP_PAYPAL_CLIENT_ID=your_paypal_client_id
 REACT_APP_API_URL=your_backend_api_url
 
 
-## 🏃 Running the Application
+##  Running the Application
 
 ### Start Backend
 bash
@@ -103,17 +103,17 @@ cd frontend
 npm start
 
 
-## 🧪 Running Tests
+##  Running Tests
 bash
 npm test
 
 
-## 📦 Build for Production
+##  Build for Production
 bash
 npm run build
 
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (git checkout -b feature/AmazingFeature)
@@ -121,14 +121,14 @@ npm run build
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-## 🔒 Authentication
+##  Authentication
 
 The application uses JWT (JSON Web Tokens) for secure authentication. Users can:
 - Register
 - Login
 - Reset Password
 
-## 💳 Payment Integration
+##  Payment Integration
 
 Integrated PayPal payment gateway for secure course purchases.
 
@@ -138,11 +138,11 @@ Integrated PayPal payment gateway for secure course purchases.
 - Certification System
 
 
-Project Link: [https://github.com/dhruvbaraiya27/info6150_final-project](https://github.com/dhruvbaraiya27/learning-management-system)
+Project Link: [https://github.com/dhruvbaraiya27/learning-management-system](https://github.com/dhruvbaraiya27/learning-management-system)
 
 
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 - React.js
 - Node.js
 - Express.js
